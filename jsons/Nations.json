@@ -1,0 +1,24 @@
+[
+{
+		"name": "Canada",
+		"leaderName": "John A. MacDonald",
+		"adjective": ["Canadian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome to Canada. As their first Prime Minister, I give you my warmest welcome.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+                "favoredReligion": "Christianity",
+		"uniqueName": "From Sea to Sea",
+		"uniques": ["[+1 Production, +1 Culture] from every [Tundra]", "[-25]% Culture cost of natural border growth [in all cities]"],
+		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton","Kitchener","Laval","London","Victoria","Halifax","Oshawa","Windsor","Saskatoon","St. Catharines","Regina","St. John's","Kelowna"]
+	},
+]

@@ -1,0 +1,13 @@
+[
+{
+		"name": "Maple Farm",
+		"replaces": "Windmill",
+		"uniqueTo": "Canada",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]", "[+2 Gold] from [Forest] tiles [in this city]"],
+		"requiredTech": "Economics"
+	},
+]
